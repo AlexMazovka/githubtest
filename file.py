@@ -1,2 +1,3 @@
-print('Hello world')
-3+3+3
+print('Hello GITHUB')
+a = 3+3+3
+print(a)
